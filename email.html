@@ -121,6 +121,13 @@
             // Add an event listener to stop speaking when the cursor leaves the element
             element.addEventListener("mouseout", stopSpeaking);
         }
+
+
+        window.addEventListener("load", function () {
+        speak(
+          "click on Input field and then press the button . After that pronounce the data   "
+        );
+      });
     </script>
 </body>
 
