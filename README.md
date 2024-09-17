@@ -1,5 +1,6 @@
 # [Luminous](https://sahil-kumar-yadav.github.io/Luminous-javascript/)
 
+## [original](https://github.com/sahil-kumar-yadav/web-publish.github.io)
 # Accessible Website for Blind Users
 
 Welcome to our accessible website designed with blind individuals in mind. Our website prioritizes a seamless and enjoyable browsing experience for blind users through speech key bindings and a range of helpful features. We are committed to making the digital world more inclusive, providing access to real-time news, music, books, and more.
